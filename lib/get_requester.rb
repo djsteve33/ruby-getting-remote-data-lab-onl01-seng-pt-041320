@@ -5,7 +5,7 @@ require 'json'
 class GetRequester
   
   
-  def initialize(people)
+  def initialize(people, get_response)
     @people = people
     get_response = URL = "https://learn-co-curriculum.github.io/json-site-example/endpoints/people.json"
     end
