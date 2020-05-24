@@ -7,7 +7,7 @@ class GetRequester
   
   def initialize(people, get_response)
     @people = people
-    get_response = URL = "https://learn-co-curriculum.github.io/json-site-example/endpoints/people.json"
+    URL = "https://learn-co-curriculum.github.io/json-site-example/endpoints/people.json"
     end
 
   def get_response_body
