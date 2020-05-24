@@ -8,6 +8,7 @@ class GetRequester
   
   def initialize(people)
     @people = people
+    get_response = 
   end
 
   def get_response_body
